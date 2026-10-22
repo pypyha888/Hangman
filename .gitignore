@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local files
+local.properties
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Other
+*.hprof
+*.log
+captures/
+.externalNativeBuild/
